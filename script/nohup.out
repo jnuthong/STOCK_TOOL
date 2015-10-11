@@ -1,0 +1,749 @@
+Delete all the files in directory: /vagrant/downloads/PROXY/dir_stock_history
+rm: cannot remove `/vagrant/downloads/PROXY/dir_stock_history/*': No such file or directory
+script_get_stock_hist.sh: line 37: /vagrant/STOCK_HIST_INPUT: No such file or directory
+Delete all the files in directory: /vagrant/PROXY/dir_stock_history
+000613, 2007, 1, /vagrant/PROXY/tmp/stock_hist.data.000613.2007.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000613.2007.1': No such file or directory
+000613, 2007, 2, /vagrant/PROXY/tmp/stock_hist.data.000613.2007.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000613.2007.2': No such file or directory
+000613, 2007, 3, /vagrant/PROXY/tmp/stock_hist.data.000613.2007.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000613.2007.3': No such file or directory
+000613, 2007, 4, /vagrant/PROXY/tmp/stock_hist.data.000613.2007.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000613.2007.4': No such file or directory
+000613, 2008, 1, /vagrant/PROXY/tmp/stock_hist.data.000613.2008.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000613.2008.1': No such file or directory
+000613, 2008, 2, /vagrant/PROXY/tmp/stock_hist.data.000613.2008.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000613.2008.2': No such file or directory
+000613, 2008, 3, /vagrant/PROXY/tmp/stock_hist.data.000613.2008.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000613.2008.3': No such file or directory
+000613, 2008, 4, /vagrant/PROXY/tmp/stock_hist.data.000613.2008.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000613.2008.4': No such file or directory
+000613, 2009, 1, /vagrant/PROXY/tmp/stock_hist.data.000613.2009.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000613.2009.1': No such file or directory
+000613, 2009, 2, /vagrant/PROXY/tmp/stock_hist.data.000613.2009.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000613.2009.2': No such file or directory
+000613, 2009, 3, /vagrant/PROXY/tmp/stock_hist.data.000613.2009.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000613.2009.3': No such file or directory
+000613, 2009, 4, /vagrant/PROXY/tmp/stock_hist.data.000613.2009.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000613.2009.4': No such file or directory
+000613, 2010, 1, /vagrant/PROXY/tmp/stock_hist.data.000613.2010.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000613.2010.1': No such file or directory
+000613, 2010, 2, /vagrant/PROXY/tmp/stock_hist.data.000613.2010.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000613.2010.2': No such file or directory
+000613, 2010, 3, /vagrant/PROXY/tmp/stock_hist.data.000613.2010.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000613.2010.3': No such file or directory
+000613, 2010, 4, /vagrant/PROXY/tmp/stock_hist.data.000613.2010.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000613.2010.4': No such file or directory
+000613, 2011, 1, /vagrant/PROXY/tmp/stock_hist.data.000613.2011.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000613.2011.1': No such file or directory
+000613, 2011, 2, /vagrant/PROXY/tmp/stock_hist.data.000613.2011.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000613.2011.2': No such file or directory
+000613, 2011, 3, /vagrant/PROXY/tmp/stock_hist.data.000613.2011.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000613.2011.3': No such file or directory
+000613, 2011, 4, /vagrant/PROXY/tmp/stock_hist.data.000613.2011.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000613.2011.4': No such file or directory
+000613, 2012, 1, /vagrant/PROXY/tmp/stock_hist.data.000613.2012.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000613.2012.1': No such file or directory
+000613, 2012, 2, /vagrant/PROXY/tmp/stock_hist.data.000613.2012.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000613.2012.2': No such file or directory
+000613, 2012, 3, /vagrant/PROXY/tmp/stock_hist.data.000613.2012.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000613.2012.3': No such file or directory
+000613, 2012, 4, /vagrant/PROXY/tmp/stock_hist.data.000613.2012.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000613.2012.4': No such file or directory
+000613, 2013, 1, /vagrant/PROXY/tmp/stock_hist.data.000613.2013.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000613.2013.1': No such file or directory
+000613, 2013, 2, /vagrant/PROXY/tmp/stock_hist.data.000613.2013.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000613.2013.2': No such file or directory
+000613, 2013, 3, /vagrant/PROXY/tmp/stock_hist.data.000613.2013.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000613.2013.3': No such file or directory
+000613, 2013, 4, /vagrant/PROXY/tmp/stock_hist.data.000613.2013.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000613.2013.4': No such file or directory
+000613, 2014, 1, /vagrant/PROXY/tmp/stock_hist.data.000613.2014.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000613.2014.1': No such file or directory
+000613, 2014, 2, /vagrant/PROXY/tmp/stock_hist.data.000613.2014.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000613.2014.2': No such file or directory
+000613, 2014, 3, /vagrant/PROXY/tmp/stock_hist.data.000613.2014.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000613.2014.3': No such file or directory
+000613, 2014, 4, /vagrant/PROXY/tmp/stock_hist.data.000613.2014.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000613.2014.4': No such file or directory
+000613, 2015, 1, /vagrant/PROXY/tmp/stock_hist.data.000613.2015.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000613.2015.1': No such file or directory
+000613, 2015, 2, /vagrant/PROXY/tmp/stock_hist.data.000613.2015.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000613.2015.2': No such file or directory
+000613, 2015, 3, /vagrant/PROXY/tmp/stock_hist.data.000613.2015.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000613.2015.3': No such file or directory
+000613, 2015, 4, /vagrant/PROXY/tmp/stock_hist.data.000613.2015.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000613.2015.4': No such file or directory
+601007, 2007, 1, /vagrant/PROXY/tmp/stock_hist.data.601007.2007.1
+601007, 2007, 2, /vagrant/PROXY/tmp/stock_hist.data.601007.2007.2
+601007, 2007, 3, /vagrant/PROXY/tmp/stock_hist.data.601007.2007.3
+601007, 2007, 4, /vagrant/PROXY/tmp/stock_hist.data.601007.2007.4
+601007, 2008, 1, /vagrant/PROXY/tmp/stock_hist.data.601007.2008.1
+601007, 2008, 2, /vagrant/PROXY/tmp/stock_hist.data.601007.2008.2
+601007, 2008, 3, /vagrant/PROXY/tmp/stock_hist.data.601007.2008.3
+601007, 2008, 4, /vagrant/PROXY/tmp/stock_hist.data.601007.2008.4
+601007, 2009, 1, /vagrant/PROXY/tmp/stock_hist.data.601007.2009.1
+601007, 2009, 2, /vagrant/PROXY/tmp/stock_hist.data.601007.2009.2
+601007, 2009, 3, /vagrant/PROXY/tmp/stock_hist.data.601007.2009.3
+601007, 2009, 4, /vagrant/PROXY/tmp/stock_hist.data.601007.2009.4
+601007, 2010, 1, /vagrant/PROXY/tmp/stock_hist.data.601007.2010.1
+601007, 2010, 2, /vagrant/PROXY/tmp/stock_hist.data.601007.2010.2
+601007, 2010, 3, /vagrant/PROXY/tmp/stock_hist.data.601007.2010.3
+601007, 2010, 4, /vagrant/PROXY/tmp/stock_hist.data.601007.2010.4
+601007, 2011, 1, /vagrant/PROXY/tmp/stock_hist.data.601007.2011.1
+601007, 2011, 2, /vagrant/PROXY/tmp/stock_hist.data.601007.2011.2
+601007, 2011, 3, /vagrant/PROXY/tmp/stock_hist.data.601007.2011.3
+601007, 2011, 4, /vagrant/PROXY/tmp/stock_hist.data.601007.2011.4
+601007, 2012, 1, /vagrant/PROXY/tmp/stock_hist.data.601007.2012.1
+601007, 2012, 2, /vagrant/PROXY/tmp/stock_hist.data.601007.2012.2
+601007, 2012, 3, /vagrant/PROXY/tmp/stock_hist.data.601007.2012.3
+601007, 2012, 4, /vagrant/PROXY/tmp/stock_hist.data.601007.2012.4
+601007, 2013, 1, /vagrant/PROXY/tmp/stock_hist.data.601007.2013.1
+601007, 2013, 2, /vagrant/PROXY/tmp/stock_hist.data.601007.2013.2
+601007, 2013, 3, /vagrant/PROXY/tmp/stock_hist.data.601007.2013.3
+601007, 2013, 4, /vagrant/PROXY/tmp/stock_hist.data.601007.2013.4
+601007, 2014, 1, /vagrant/PROXY/tmp/stock_hist.data.601007.2014.1
+601007, 2014, 2, /vagrant/PROXY/tmp/stock_hist.data.601007.2014.2
+601007, 2014, 3, /vagrant/PROXY/tmp/stock_hist.data.601007.2014.3
+601007, 2014, 4, /vagrant/PROXY/tmp/stock_hist.data.601007.2014.4
+601007, 2015, 1, /vagrant/PROXY/tmp/stock_hist.data.601007.2015.1
+601007, 2015, 2, /vagrant/PROXY/tmp/stock_hist.data.601007.2015.2
+601007, 2015, 3, /vagrant/PROXY/tmp/stock_hist.data.601007.2015.3
+601007, 2015, 4, /vagrant/PROXY/tmp/stock_hist.data.601007.2015.4
+000428, 2007, 1, /vagrant/PROXY/tmp/stock_hist.data.000428.2007.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000428.2007.1': No such file or directory
+000428, 2007, 2, /vagrant/PROXY/tmp/stock_hist.data.000428.2007.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000428.2007.2': No such file or directory
+000428, 2007, 3, /vagrant/PROXY/tmp/stock_hist.data.000428.2007.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000428.2007.3': No such file or directory
+000428, 2007, 4, /vagrant/PROXY/tmp/stock_hist.data.000428.2007.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000428.2007.4': No such file or directory
+000428, 2008, 1, /vagrant/PROXY/tmp/stock_hist.data.000428.2008.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000428.2008.1': No such file or directory
+000428, 2008, 2, /vagrant/PROXY/tmp/stock_hist.data.000428.2008.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000428.2008.2': No such file or directory
+000428, 2008, 3, /vagrant/PROXY/tmp/stock_hist.data.000428.2008.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000428.2008.3': No such file or directory
+000428, 2008, 4, /vagrant/PROXY/tmp/stock_hist.data.000428.2008.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000428.2008.4': No such file or directory
+000428, 2009, 1, /vagrant/PROXY/tmp/stock_hist.data.000428.2009.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000428.2009.1': No such file or directory
+000428, 2009, 2, /vagrant/PROXY/tmp/stock_hist.data.000428.2009.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000428.2009.2': No such file or directory
+000428, 2009, 3, /vagrant/PROXY/tmp/stock_hist.data.000428.2009.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000428.2009.3': No such file or directory
+000428, 2009, 4, /vagrant/PROXY/tmp/stock_hist.data.000428.2009.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000428.2009.4': No such file or directory
+000428, 2010, 1, /vagrant/PROXY/tmp/stock_hist.data.000428.2010.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000428.2010.1': No such file or directory
+000428, 2010, 2, /vagrant/PROXY/tmp/stock_hist.data.000428.2010.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000428.2010.2': No such file or directory
+000428, 2010, 3, /vagrant/PROXY/tmp/stock_hist.data.000428.2010.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000428.2010.3': No such file or directory
+000428, 2010, 4, /vagrant/PROXY/tmp/stock_hist.data.000428.2010.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000428.2010.4': No such file or directory
+000428, 2011, 1, /vagrant/PROXY/tmp/stock_hist.data.000428.2011.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000428.2011.1': No such file or directory
+000428, 2011, 2, /vagrant/PROXY/tmp/stock_hist.data.000428.2011.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000428.2011.2': No such file or directory
+000428, 2011, 3, /vagrant/PROXY/tmp/stock_hist.data.000428.2011.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000428.2011.3': No such file or directory
+000428, 2011, 4, /vagrant/PROXY/tmp/stock_hist.data.000428.2011.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000428.2011.4': No such file or directory
+000428, 2012, 1, /vagrant/PROXY/tmp/stock_hist.data.000428.2012.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000428.2012.1': No such file or directory
+000428, 2012, 2, /vagrant/PROXY/tmp/stock_hist.data.000428.2012.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000428.2012.2': No such file or directory
+000428, 2012, 3, /vagrant/PROXY/tmp/stock_hist.data.000428.2012.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000428.2012.3': No such file or directory
+000428, 2012, 4, /vagrant/PROXY/tmp/stock_hist.data.000428.2012.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000428.2012.4': No such file or directory
+000428, 2013, 1, /vagrant/PROXY/tmp/stock_hist.data.000428.2013.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000428.2013.1': No such file or directory
+000428, 2013, 2, /vagrant/PROXY/tmp/stock_hist.data.000428.2013.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000428.2013.2': No such file or directory
+000428, 2013, 3, /vagrant/PROXY/tmp/stock_hist.data.000428.2013.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000428.2013.3': No such file or directory
+000428, 2013, 4, /vagrant/PROXY/tmp/stock_hist.data.000428.2013.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000428.2013.4': No such file or directory
+000428, 2014, 1, /vagrant/PROXY/tmp/stock_hist.data.000428.2014.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000428.2014.1': No such file or directory
+000428, 2014, 2, /vagrant/PROXY/tmp/stock_hist.data.000428.2014.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000428.2014.2': No such file or directory
+000428, 2014, 3, /vagrant/PROXY/tmp/stock_hist.data.000428.2014.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000428.2014.3': No such file or directory
+000428, 2014, 4, /vagrant/PROXY/tmp/stock_hist.data.000428.2014.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000428.2014.4': No such file or directory
+000428, 2015, 1, /vagrant/PROXY/tmp/stock_hist.data.000428.2015.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000428.2015.1': No such file or directory
+000428, 2015, 2, /vagrant/PROXY/tmp/stock_hist.data.000428.2015.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000428.2015.2': No such file or directory
+000428, 2015, 3, /vagrant/PROXY/tmp/stock_hist.data.000428.2015.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000428.2015.3': No such file or directory
+000428, 2015, 4, /vagrant/PROXY/tmp/stock_hist.data.000428.2015.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000428.2015.4': No such file or directory
+000524, 2007, 1, /vagrant/PROXY/tmp/stock_hist.data.000524.2007.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000524.2007.1': No such file or directory
+000524, 2007, 2, /vagrant/PROXY/tmp/stock_hist.data.000524.2007.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000524.2007.2': No such file or directory
+000524, 2007, 3, /vagrant/PROXY/tmp/stock_hist.data.000524.2007.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000524.2007.3': No such file or directory
+000524, 2007, 4, /vagrant/PROXY/tmp/stock_hist.data.000524.2007.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000524.2007.4': No such file or directory
+000524, 2008, 1, /vagrant/PROXY/tmp/stock_hist.data.000524.2008.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000524.2008.1': No such file or directory
+000524, 2008, 2, /vagrant/PROXY/tmp/stock_hist.data.000524.2008.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000524.2008.2': No such file or directory
+000524, 2008, 3, /vagrant/PROXY/tmp/stock_hist.data.000524.2008.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000524.2008.3': No such file or directory
+000524, 2008, 4, /vagrant/PROXY/tmp/stock_hist.data.000524.2008.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000524.2008.4': No such file or directory
+000524, 2009, 1, /vagrant/PROXY/tmp/stock_hist.data.000524.2009.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000524.2009.1': No such file or directory
+000524, 2009, 2, /vagrant/PROXY/tmp/stock_hist.data.000524.2009.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000524.2009.2': No such file or directory
+000524, 2009, 3, /vagrant/PROXY/tmp/stock_hist.data.000524.2009.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000524.2009.3': No such file or directory
+000524, 2009, 4, /vagrant/PROXY/tmp/stock_hist.data.000524.2009.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000524.2009.4': No such file or directory
+000524, 2010, 1, /vagrant/PROXY/tmp/stock_hist.data.000524.2010.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000524.2010.1': No such file or directory
+000524, 2010, 2, /vagrant/PROXY/tmp/stock_hist.data.000524.2010.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000524.2010.2': No such file or directory
+000524, 2010, 3, /vagrant/PROXY/tmp/stock_hist.data.000524.2010.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000524.2010.3': No such file or directory
+000524, 2010, 4, /vagrant/PROXY/tmp/stock_hist.data.000524.2010.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000524.2010.4': No such file or directory
+000524, 2011, 1, /vagrant/PROXY/tmp/stock_hist.data.000524.2011.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000524.2011.1': No such file or directory
+000524, 2011, 2, /vagrant/PROXY/tmp/stock_hist.data.000524.2011.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000524.2011.2': No such file or directory
+000524, 2011, 3, /vagrant/PROXY/tmp/stock_hist.data.000524.2011.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000524.2011.3': No such file or directory
+000524, 2011, 4, /vagrant/PROXY/tmp/stock_hist.data.000524.2011.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000524.2011.4': No such file or directory
+000524, 2012, 1, /vagrant/PROXY/tmp/stock_hist.data.000524.2012.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000524.2012.1': No such file or directory
+000524, 2012, 2, /vagrant/PROXY/tmp/stock_hist.data.000524.2012.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000524.2012.2': No such file or directory
+000524, 2012, 3, /vagrant/PROXY/tmp/stock_hist.data.000524.2012.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000524.2012.3': No such file or directory
+000524, 2012, 4, /vagrant/PROXY/tmp/stock_hist.data.000524.2012.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000524.2012.4': No such file or directory
+000524, 2013, 1, /vagrant/PROXY/tmp/stock_hist.data.000524.2013.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000524.2013.1': No such file or directory
+000524, 2013, 2, /vagrant/PROXY/tmp/stock_hist.data.000524.2013.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000524.2013.2': No such file or directory
+000524, 2013, 3, /vagrant/PROXY/tmp/stock_hist.data.000524.2013.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000524.2013.3': No such file or directory
+000524, 2013, 4, /vagrant/PROXY/tmp/stock_hist.data.000524.2013.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000524.2013.4': No such file or directory
+000524, 2014, 1, /vagrant/PROXY/tmp/stock_hist.data.000524.2014.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000524.2014.1': No such file or directory
+000524, 2014, 2, /vagrant/PROXY/tmp/stock_hist.data.000524.2014.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000524.2014.2': No such file or directory
+000524, 2014, 3, /vagrant/PROXY/tmp/stock_hist.data.000524.2014.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000524.2014.3': No such file or directory
+000524, 2014, 4, /vagrant/PROXY/tmp/stock_hist.data.000524.2014.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000524.2014.4': No such file or directory
+000524, 2015, 1, /vagrant/PROXY/tmp/stock_hist.data.000524.2015.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000524.2015.1': No such file or directory
+000524, 2015, 2, /vagrant/PROXY/tmp/stock_hist.data.000524.2015.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000524.2015.2': No such file or directory
+000524, 2015, 3, /vagrant/PROXY/tmp/stock_hist.data.000524.2015.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000524.2015.3': No such file or directory
+000524, 2015, 4, /vagrant/PROXY/tmp/stock_hist.data.000524.2015.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000524.2015.4': No such file or directory
+002186, 2007, 1, /vagrant/PROXY/tmp/stock_hist.data.002186.2007.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002186.2007.1': No such file or directory
+002186, 2007, 2, /vagrant/PROXY/tmp/stock_hist.data.002186.2007.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002186.2007.2': No such file or directory
+002186, 2007, 3, /vagrant/PROXY/tmp/stock_hist.data.002186.2007.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002186.2007.3': No such file or directory
+002186, 2007, 4, /vagrant/PROXY/tmp/stock_hist.data.002186.2007.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002186.2007.4': No such file or directory
+002186, 2008, 1, /vagrant/PROXY/tmp/stock_hist.data.002186.2008.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002186.2008.1': No such file or directory
+002186, 2008, 2, /vagrant/PROXY/tmp/stock_hist.data.002186.2008.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002186.2008.2': No such file or directory
+002186, 2008, 3, /vagrant/PROXY/tmp/stock_hist.data.002186.2008.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002186.2008.3': No such file or directory
+002186, 2008, 4, /vagrant/PROXY/tmp/stock_hist.data.002186.2008.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002186.2008.4': No such file or directory
+002186, 2009, 1, /vagrant/PROXY/tmp/stock_hist.data.002186.2009.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002186.2009.1': No such file or directory
+002186, 2009, 2, /vagrant/PROXY/tmp/stock_hist.data.002186.2009.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002186.2009.2': No such file or directory
+002186, 2009, 3, /vagrant/PROXY/tmp/stock_hist.data.002186.2009.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002186.2009.3': No such file or directory
+002186, 2009, 4, /vagrant/PROXY/tmp/stock_hist.data.002186.2009.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002186.2009.4': No such file or directory
+002186, 2010, 1, /vagrant/PROXY/tmp/stock_hist.data.002186.2010.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002186.2010.1': No such file or directory
+002186, 2010, 2, /vagrant/PROXY/tmp/stock_hist.data.002186.2010.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002186.2010.2': No such file or directory
+002186, 2010, 3, /vagrant/PROXY/tmp/stock_hist.data.002186.2010.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002186.2010.3': No such file or directory
+002186, 2010, 4, /vagrant/PROXY/tmp/stock_hist.data.002186.2010.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002186.2010.4': No such file or directory
+002186, 2011, 1, /vagrant/PROXY/tmp/stock_hist.data.002186.2011.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002186.2011.1': No such file or directory
+002186, 2011, 2, /vagrant/PROXY/tmp/stock_hist.data.002186.2011.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002186.2011.2': No such file or directory
+002186, 2011, 3, /vagrant/PROXY/tmp/stock_hist.data.002186.2011.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002186.2011.3': No such file or directory
+002186, 2011, 4, /vagrant/PROXY/tmp/stock_hist.data.002186.2011.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002186.2011.4': No such file or directory
+002186, 2012, 1, /vagrant/PROXY/tmp/stock_hist.data.002186.2012.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002186.2012.1': No such file or directory
+002186, 2012, 2, /vagrant/PROXY/tmp/stock_hist.data.002186.2012.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002186.2012.2': No such file or directory
+002186, 2012, 3, /vagrant/PROXY/tmp/stock_hist.data.002186.2012.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002186.2012.3': No such file or directory
+002186, 2012, 4, /vagrant/PROXY/tmp/stock_hist.data.002186.2012.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002186.2012.4': No such file or directory
+002186, 2013, 1, /vagrant/PROXY/tmp/stock_hist.data.002186.2013.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002186.2013.1': No such file or directory
+002186, 2013, 2, /vagrant/PROXY/tmp/stock_hist.data.002186.2013.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002186.2013.2': No such file or directory
+002186, 2013, 3, /vagrant/PROXY/tmp/stock_hist.data.002186.2013.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002186.2013.3': No such file or directory
+002186, 2013, 4, /vagrant/PROXY/tmp/stock_hist.data.002186.2013.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002186.2013.4': No such file or directory
+002186, 2014, 1, /vagrant/PROXY/tmp/stock_hist.data.002186.2014.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002186.2014.1': No such file or directory
+002186, 2014, 2, /vagrant/PROXY/tmp/stock_hist.data.002186.2014.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002186.2014.2': No such file or directory
+002186, 2014, 3, /vagrant/PROXY/tmp/stock_hist.data.002186.2014.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002186.2014.3': No such file or directory
+002186, 2014, 4, /vagrant/PROXY/tmp/stock_hist.data.002186.2014.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002186.2014.4': No such file or directory
+002186, 2015, 1, /vagrant/PROXY/tmp/stock_hist.data.002186.2015.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002186.2015.1': No such file or directory
+002186, 2015, 2, /vagrant/PROXY/tmp/stock_hist.data.002186.2015.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002186.2015.2': No such file or directory
+002186, 2015, 3, /vagrant/PROXY/tmp/stock_hist.data.002186.2015.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002186.2015.3': No such file or directory
+002186, 2015, 4, /vagrant/PROXY/tmp/stock_hist.data.002186.2015.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002186.2015.4': No such file or directory
+600754, 2007, 1, /vagrant/PROXY/tmp/stock_hist.data.600754.2007.1
+600754, 2007, 2, /vagrant/PROXY/tmp/stock_hist.data.600754.2007.2
+600754, 2007, 3, /vagrant/PROXY/tmp/stock_hist.data.600754.2007.3
+600754, 2007, 4, /vagrant/PROXY/tmp/stock_hist.data.600754.2007.4
+600754, 2008, 1, /vagrant/PROXY/tmp/stock_hist.data.600754.2008.1
+600754, 2008, 2, /vagrant/PROXY/tmp/stock_hist.data.600754.2008.2
+600754, 2008, 3, /vagrant/PROXY/tmp/stock_hist.data.600754.2008.3
+600754, 2008, 4, /vagrant/PROXY/tmp/stock_hist.data.600754.2008.4
+600754, 2009, 1, /vagrant/PROXY/tmp/stock_hist.data.600754.2009.1
+600754, 2009, 2, /vagrant/PROXY/tmp/stock_hist.data.600754.2009.2
+600754, 2009, 3, /vagrant/PROXY/tmp/stock_hist.data.600754.2009.3
+600754, 2009, 4, /vagrant/PROXY/tmp/stock_hist.data.600754.2009.4
+600754, 2010, 1, /vagrant/PROXY/tmp/stock_hist.data.600754.2010.1
+600754, 2010, 2, /vagrant/PROXY/tmp/stock_hist.data.600754.2010.2
+600754, 2010, 3, /vagrant/PROXY/tmp/stock_hist.data.600754.2010.3
+600754, 2010, 4, /vagrant/PROXY/tmp/stock_hist.data.600754.2010.4
+600754, 2011, 1, /vagrant/PROXY/tmp/stock_hist.data.600754.2011.1
+600754, 2011, 2, /vagrant/PROXY/tmp/stock_hist.data.600754.2011.2
+600754, 2011, 3, /vagrant/PROXY/tmp/stock_hist.data.600754.2011.3
+600754, 2011, 4, /vagrant/PROXY/tmp/stock_hist.data.600754.2011.4
+600754, 2012, 1, /vagrant/PROXY/tmp/stock_hist.data.600754.2012.1
+600754, 2012, 2, /vagrant/PROXY/tmp/stock_hist.data.600754.2012.2
+600754, 2012, 3, /vagrant/PROXY/tmp/stock_hist.data.600754.2012.3
+600754, 2012, 4, /vagrant/PROXY/tmp/stock_hist.data.600754.2012.4
+600754, 2013, 1, /vagrant/PROXY/tmp/stock_hist.data.600754.2013.1
+600754, 2013, 2, /vagrant/PROXY/tmp/stock_hist.data.600754.2013.2
+600754, 2013, 3, /vagrant/PROXY/tmp/stock_hist.data.600754.2013.3
+600754, 2013, 4, /vagrant/PROXY/tmp/stock_hist.data.600754.2013.4
+600754, 2014, 1, /vagrant/PROXY/tmp/stock_hist.data.600754.2014.1
+600754, 2014, 2, /vagrant/PROXY/tmp/stock_hist.data.600754.2014.2
+600754, 2014, 3, /vagrant/PROXY/tmp/stock_hist.data.600754.2014.3
+600754, 2014, 4, /vagrant/PROXY/tmp/stock_hist.data.600754.2014.4
+600754, 2015, 1, /vagrant/PROXY/tmp/stock_hist.data.600754.2015.1
+600754, 2015, 2, /vagrant/PROXY/tmp/stock_hist.data.600754.2015.2
+600754, 2015, 3, /vagrant/PROXY/tmp/stock_hist.data.600754.2015.3
+600754, 2015, 4, /vagrant/PROXY/tmp/stock_hist.data.600754.2015.4
+002306, 2007, 1, /vagrant/PROXY/tmp/stock_hist.data.002306.2007.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002306.2007.1': No such file or directory
+002306, 2007, 2, /vagrant/PROXY/tmp/stock_hist.data.002306.2007.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002306.2007.2': No such file or directory
+002306, 2007, 3, /vagrant/PROXY/tmp/stock_hist.data.002306.2007.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002306.2007.3': No such file or directory
+002306, 2007, 4, /vagrant/PROXY/tmp/stock_hist.data.002306.2007.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002306.2007.4': No such file or directory
+002306, 2008, 1, /vagrant/PROXY/tmp/stock_hist.data.002306.2008.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002306.2008.1': No such file or directory
+002306, 2008, 2, /vagrant/PROXY/tmp/stock_hist.data.002306.2008.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002306.2008.2': No such file or directory
+002306, 2008, 3, /vagrant/PROXY/tmp/stock_hist.data.002306.2008.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002306.2008.3': No such file or directory
+002306, 2008, 4, /vagrant/PROXY/tmp/stock_hist.data.002306.2008.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002306.2008.4': No such file or directory
+002306, 2009, 1, /vagrant/PROXY/tmp/stock_hist.data.002306.2009.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002306.2009.1': No such file or directory
+002306, 2009, 2, /vagrant/PROXY/tmp/stock_hist.data.002306.2009.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002306.2009.2': No such file or directory
+002306, 2009, 3, /vagrant/PROXY/tmp/stock_hist.data.002306.2009.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002306.2009.3': No such file or directory
+002306, 2009, 4, /vagrant/PROXY/tmp/stock_hist.data.002306.2009.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002306.2009.4': No such file or directory
+002306, 2010, 1, /vagrant/PROXY/tmp/stock_hist.data.002306.2010.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002306.2010.1': No such file or directory
+002306, 2010, 2, /vagrant/PROXY/tmp/stock_hist.data.002306.2010.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002306.2010.2': No such file or directory
+002306, 2010, 3, /vagrant/PROXY/tmp/stock_hist.data.002306.2010.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002306.2010.3': No such file or directory
+002306, 2010, 4, /vagrant/PROXY/tmp/stock_hist.data.002306.2010.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002306.2010.4': No such file or directory
+002306, 2011, 1, /vagrant/PROXY/tmp/stock_hist.data.002306.2011.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002306.2011.1': No such file or directory
+002306, 2011, 2, /vagrant/PROXY/tmp/stock_hist.data.002306.2011.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002306.2011.2': No such file or directory
+002306, 2011, 3, /vagrant/PROXY/tmp/stock_hist.data.002306.2011.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002306.2011.3': No such file or directory
+002306, 2011, 4, /vagrant/PROXY/tmp/stock_hist.data.002306.2011.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002306.2011.4': No such file or directory
+002306, 2012, 1, /vagrant/PROXY/tmp/stock_hist.data.002306.2012.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002306.2012.1': No such file or directory
+002306, 2012, 2, /vagrant/PROXY/tmp/stock_hist.data.002306.2012.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002306.2012.2': No such file or directory
+002306, 2012, 3, /vagrant/PROXY/tmp/stock_hist.data.002306.2012.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002306.2012.3': No such file or directory
+002306, 2012, 4, /vagrant/PROXY/tmp/stock_hist.data.002306.2012.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002306.2012.4': No such file or directory
+002306, 2013, 1, /vagrant/PROXY/tmp/stock_hist.data.002306.2013.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002306.2013.1': No such file or directory
+002306, 2013, 2, /vagrant/PROXY/tmp/stock_hist.data.002306.2013.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002306.2013.2': No such file or directory
+002306, 2013, 3, /vagrant/PROXY/tmp/stock_hist.data.002306.2013.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002306.2013.3': No such file or directory
+002306, 2013, 4, /vagrant/PROXY/tmp/stock_hist.data.002306.2013.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002306.2013.4': No such file or directory
+002306, 2014, 1, /vagrant/PROXY/tmp/stock_hist.data.002306.2014.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002306.2014.1': No such file or directory
+002306, 2014, 2, /vagrant/PROXY/tmp/stock_hist.data.002306.2014.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002306.2014.2': No such file or directory
+002306, 2014, 3, /vagrant/PROXY/tmp/stock_hist.data.002306.2014.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002306.2014.3': No such file or directory
+002306, 2014, 4, /vagrant/PROXY/tmp/stock_hist.data.002306.2014.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002306.2014.4': No such file or directory
+002306, 2015, 1, /vagrant/PROXY/tmp/stock_hist.data.002306.2015.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002306.2015.1': No such file or directory
+002306, 2015, 2, /vagrant/PROXY/tmp/stock_hist.data.002306.2015.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002306.2015.2': No such file or directory
+002306, 2015, 3, /vagrant/PROXY/tmp/stock_hist.data.002306.2015.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002306.2015.3': No such file or directory
+002306, 2015, 4, /vagrant/PROXY/tmp/stock_hist.data.002306.2015.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.002306.2015.4': No such file or directory
+000721, 2007, 1, /vagrant/PROXY/tmp/stock_hist.data.000721.2007.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000721.2007.1': No such file or directory
+000721, 2007, 2, /vagrant/PROXY/tmp/stock_hist.data.000721.2007.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000721.2007.2': No such file or directory
+000721, 2007, 3, /vagrant/PROXY/tmp/stock_hist.data.000721.2007.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000721.2007.3': No such file or directory
+000721, 2007, 4, /vagrant/PROXY/tmp/stock_hist.data.000721.2007.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000721.2007.4': No such file or directory
+000721, 2008, 1, /vagrant/PROXY/tmp/stock_hist.data.000721.2008.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000721.2008.1': No such file or directory
+000721, 2008, 2, /vagrant/PROXY/tmp/stock_hist.data.000721.2008.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000721.2008.2': No such file or directory
+000721, 2008, 3, /vagrant/PROXY/tmp/stock_hist.data.000721.2008.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000721.2008.3': No such file or directory
+000721, 2008, 4, /vagrant/PROXY/tmp/stock_hist.data.000721.2008.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000721.2008.4': No such file or directory
+000721, 2009, 1, /vagrant/PROXY/tmp/stock_hist.data.000721.2009.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000721.2009.1': No such file or directory
+000721, 2009, 2, /vagrant/PROXY/tmp/stock_hist.data.000721.2009.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000721.2009.2': No such file or directory
+000721, 2009, 3, /vagrant/PROXY/tmp/stock_hist.data.000721.2009.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000721.2009.3': No such file or directory
+000721, 2009, 4, /vagrant/PROXY/tmp/stock_hist.data.000721.2009.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000721.2009.4': No such file or directory
+000721, 2010, 1, /vagrant/PROXY/tmp/stock_hist.data.000721.2010.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000721.2010.1': No such file or directory
+000721, 2010, 2, /vagrant/PROXY/tmp/stock_hist.data.000721.2010.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000721.2010.2': No such file or directory
+000721, 2010, 3, /vagrant/PROXY/tmp/stock_hist.data.000721.2010.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000721.2010.3': No such file or directory
+000721, 2010, 4, /vagrant/PROXY/tmp/stock_hist.data.000721.2010.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000721.2010.4': No such file or directory
+000721, 2011, 1, /vagrant/PROXY/tmp/stock_hist.data.000721.2011.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000721.2011.1': No such file or directory
+000721, 2011, 2, /vagrant/PROXY/tmp/stock_hist.data.000721.2011.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000721.2011.2': No such file or directory
+000721, 2011, 3, /vagrant/PROXY/tmp/stock_hist.data.000721.2011.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000721.2011.3': No such file or directory
+000721, 2011, 4, /vagrant/PROXY/tmp/stock_hist.data.000721.2011.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000721.2011.4': No such file or directory
+000721, 2012, 1, /vagrant/PROXY/tmp/stock_hist.data.000721.2012.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000721.2012.1': No such file or directory
+000721, 2012, 2, /vagrant/PROXY/tmp/stock_hist.data.000721.2012.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000721.2012.2': No such file or directory
+000721, 2012, 3, /vagrant/PROXY/tmp/stock_hist.data.000721.2012.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000721.2012.3': No such file or directory
+000721, 2012, 4, /vagrant/PROXY/tmp/stock_hist.data.000721.2012.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000721.2012.4': No such file or directory
+000721, 2013, 1, /vagrant/PROXY/tmp/stock_hist.data.000721.2013.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000721.2013.1': No such file or directory
+000721, 2013, 2, /vagrant/PROXY/tmp/stock_hist.data.000721.2013.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000721.2013.2': No such file or directory
+000721, 2013, 3, /vagrant/PROXY/tmp/stock_hist.data.000721.2013.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000721.2013.3': No such file or directory
+000721, 2013, 4, /vagrant/PROXY/tmp/stock_hist.data.000721.2013.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000721.2013.4': No such file or directory
+000721, 2014, 1, /vagrant/PROXY/tmp/stock_hist.data.000721.2014.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000721.2014.1': No such file or directory
+000721, 2014, 2, /vagrant/PROXY/tmp/stock_hist.data.000721.2014.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000721.2014.2': No such file or directory
+000721, 2014, 3, /vagrant/PROXY/tmp/stock_hist.data.000721.2014.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000721.2014.3': No such file or directory
+000721, 2014, 4, /vagrant/PROXY/tmp/stock_hist.data.000721.2014.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000721.2014.4': No such file or directory
+000721, 2015, 1, /vagrant/PROXY/tmp/stock_hist.data.000721.2015.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000721.2015.1': No such file or directory
+000721, 2015, 2, /vagrant/PROXY/tmp/stock_hist.data.000721.2015.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000721.2015.2': No such file or directory
+000721, 2015, 3, /vagrant/PROXY/tmp/stock_hist.data.000721.2015.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000721.2015.3': No such file or directory
+000721, 2015, 4, /vagrant/PROXY/tmp/stock_hist.data.000721.2015.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000721.2015.4': No such file or directory
+000033, 2007, 1, /vagrant/PROXY/tmp/stock_hist.data.000033.2007.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000033.2007.1': No such file or directory
+000033, 2007, 2, /vagrant/PROXY/tmp/stock_hist.data.000033.2007.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000033.2007.2': No such file or directory
+000033, 2007, 3, /vagrant/PROXY/tmp/stock_hist.data.000033.2007.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000033.2007.3': No such file or directory
+000033, 2007, 4, /vagrant/PROXY/tmp/stock_hist.data.000033.2007.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000033.2007.4': No such file or directory
+000033, 2008, 1, /vagrant/PROXY/tmp/stock_hist.data.000033.2008.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000033.2008.1': No such file or directory
+000033, 2008, 2, /vagrant/PROXY/tmp/stock_hist.data.000033.2008.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000033.2008.2': No such file or directory
+000033, 2008, 3, /vagrant/PROXY/tmp/stock_hist.data.000033.2008.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000033.2008.3': No such file or directory
+000033, 2008, 4, /vagrant/PROXY/tmp/stock_hist.data.000033.2008.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000033.2008.4': No such file or directory
+000033, 2009, 1, /vagrant/PROXY/tmp/stock_hist.data.000033.2009.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000033.2009.1': No such file or directory
+000033, 2009, 2, /vagrant/PROXY/tmp/stock_hist.data.000033.2009.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000033.2009.2': No such file or directory
+000033, 2009, 3, /vagrant/PROXY/tmp/stock_hist.data.000033.2009.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000033.2009.3': No such file or directory
+000033, 2009, 4, /vagrant/PROXY/tmp/stock_hist.data.000033.2009.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000033.2009.4': No such file or directory
+000033, 2010, 1, /vagrant/PROXY/tmp/stock_hist.data.000033.2010.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000033.2010.1': No such file or directory
+000033, 2010, 2, /vagrant/PROXY/tmp/stock_hist.data.000033.2010.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000033.2010.2': No such file or directory
+000033, 2010, 3, /vagrant/PROXY/tmp/stock_hist.data.000033.2010.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000033.2010.3': No such file or directory
+000033, 2010, 4, /vagrant/PROXY/tmp/stock_hist.data.000033.2010.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000033.2010.4': No such file or directory
+000033, 2011, 1, /vagrant/PROXY/tmp/stock_hist.data.000033.2011.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000033.2011.1': No such file or directory
+000033, 2011, 2, /vagrant/PROXY/tmp/stock_hist.data.000033.2011.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000033.2011.2': No such file or directory
+000033, 2011, 3, /vagrant/PROXY/tmp/stock_hist.data.000033.2011.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000033.2011.3': No such file or directory
+000033, 2011, 4, /vagrant/PROXY/tmp/stock_hist.data.000033.2011.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000033.2011.4': No such file or directory
+000033, 2012, 1, /vagrant/PROXY/tmp/stock_hist.data.000033.2012.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000033.2012.1': No such file or directory
+000033, 2012, 2, /vagrant/PROXY/tmp/stock_hist.data.000033.2012.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000033.2012.2': No such file or directory
+000033, 2012, 3, /vagrant/PROXY/tmp/stock_hist.data.000033.2012.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000033.2012.3': No such file or directory
+000033, 2012, 4, /vagrant/PROXY/tmp/stock_hist.data.000033.2012.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000033.2012.4': No such file or directory
+000033, 2013, 1, /vagrant/PROXY/tmp/stock_hist.data.000033.2013.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000033.2013.1': No such file or directory
+000033, 2013, 2, /vagrant/PROXY/tmp/stock_hist.data.000033.2013.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000033.2013.2': No such file or directory
+000033, 2013, 3, /vagrant/PROXY/tmp/stock_hist.data.000033.2013.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000033.2013.3': No such file or directory
+000033, 2013, 4, /vagrant/PROXY/tmp/stock_hist.data.000033.2013.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000033.2013.4': No such file or directory
+000033, 2014, 1, /vagrant/PROXY/tmp/stock_hist.data.000033.2014.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000033.2014.1': No such file or directory
+000033, 2014, 2, /vagrant/PROXY/tmp/stock_hist.data.000033.2014.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000033.2014.2': No such file or directory
+000033, 2014, 3, /vagrant/PROXY/tmp/stock_hist.data.000033.2014.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000033.2014.3': No such file or directory
+000033, 2014, 4, /vagrant/PROXY/tmp/stock_hist.data.000033.2014.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000033.2014.4': No such file or directory
+000033, 2015, 1, /vagrant/PROXY/tmp/stock_hist.data.000033.2015.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000033.2015.1': No such file or directory
+000033, 2015, 2, /vagrant/PROXY/tmp/stock_hist.data.000033.2015.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000033.2015.2': No such file or directory
+000033, 2015, 3, /vagrant/PROXY/tmp/stock_hist.data.000033.2015.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000033.2015.3': No such file or directory
+000033, 2015, 4, /vagrant/PROXY/tmp/stock_hist.data.000033.2015.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000033.2015.4': No such file or directory
+000007, 2007, 1, /vagrant/PROXY/tmp/stock_hist.data.000007.2007.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000007.2007.1': No such file or directory
+000007, 2007, 2, /vagrant/PROXY/tmp/stock_hist.data.000007.2007.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000007.2007.2': No such file or directory
+000007, 2007, 3, /vagrant/PROXY/tmp/stock_hist.data.000007.2007.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000007.2007.3': No such file or directory
+000007, 2007, 4, /vagrant/PROXY/tmp/stock_hist.data.000007.2007.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000007.2007.4': No such file or directory
+000007, 2008, 1, /vagrant/PROXY/tmp/stock_hist.data.000007.2008.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000007.2008.1': No such file or directory
+000007, 2008, 2, /vagrant/PROXY/tmp/stock_hist.data.000007.2008.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000007.2008.2': No such file or directory
+000007, 2008, 3, /vagrant/PROXY/tmp/stock_hist.data.000007.2008.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000007.2008.3': No such file or directory
+000007, 2008, 4, /vagrant/PROXY/tmp/stock_hist.data.000007.2008.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000007.2008.4': No such file or directory
+000007, 2009, 1, /vagrant/PROXY/tmp/stock_hist.data.000007.2009.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000007.2009.1': No such file or directory
+000007, 2009, 2, /vagrant/PROXY/tmp/stock_hist.data.000007.2009.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000007.2009.2': No such file or directory
+000007, 2009, 3, /vagrant/PROXY/tmp/stock_hist.data.000007.2009.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000007.2009.3': No such file or directory
+000007, 2009, 4, /vagrant/PROXY/tmp/stock_hist.data.000007.2009.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000007.2009.4': No such file or directory
+000007, 2010, 1, /vagrant/PROXY/tmp/stock_hist.data.000007.2010.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000007.2010.1': No such file or directory
+000007, 2010, 2, /vagrant/PROXY/tmp/stock_hist.data.000007.2010.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000007.2010.2': No such file or directory
+000007, 2010, 3, /vagrant/PROXY/tmp/stock_hist.data.000007.2010.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000007.2010.3': No such file or directory
+000007, 2010, 4, /vagrant/PROXY/tmp/stock_hist.data.000007.2010.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000007.2010.4': No such file or directory
+000007, 2011, 1, /vagrant/PROXY/tmp/stock_hist.data.000007.2011.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000007.2011.1': No such file or directory
+000007, 2011, 2, /vagrant/PROXY/tmp/stock_hist.data.000007.2011.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000007.2011.2': No such file or directory
+000007, 2011, 3, /vagrant/PROXY/tmp/stock_hist.data.000007.2011.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000007.2011.3': No such file or directory
+000007, 2011, 4, /vagrant/PROXY/tmp/stock_hist.data.000007.2011.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000007.2011.4': No such file or directory
+000007, 2012, 1, /vagrant/PROXY/tmp/stock_hist.data.000007.2012.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000007.2012.1': No such file or directory
+000007, 2012, 2, /vagrant/PROXY/tmp/stock_hist.data.000007.2012.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000007.2012.2': No such file or directory
+000007, 2012, 3, /vagrant/PROXY/tmp/stock_hist.data.000007.2012.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000007.2012.3': No such file or directory
+000007, 2012, 4, /vagrant/PROXY/tmp/stock_hist.data.000007.2012.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000007.2012.4': No such file or directory
+000007, 2013, 1, /vagrant/PROXY/tmp/stock_hist.data.000007.2013.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000007.2013.1': No such file or directory
+000007, 2013, 2, /vagrant/PROXY/tmp/stock_hist.data.000007.2013.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000007.2013.2': No such file or directory
+000007, 2013, 3, /vagrant/PROXY/tmp/stock_hist.data.000007.2013.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000007.2013.3': No such file or directory
+000007, 2013, 4, /vagrant/PROXY/tmp/stock_hist.data.000007.2013.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000007.2013.4': No such file or directory
+000007, 2014, 1, /vagrant/PROXY/tmp/stock_hist.data.000007.2014.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000007.2014.1': No such file or directory
+000007, 2014, 2, /vagrant/PROXY/tmp/stock_hist.data.000007.2014.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000007.2014.2': No such file or directory
+000007, 2014, 3, /vagrant/PROXY/tmp/stock_hist.data.000007.2014.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000007.2014.3': No such file or directory
+000007, 2014, 4, /vagrant/PROXY/tmp/stock_hist.data.000007.2014.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000007.2014.4': No such file or directory
+000007, 2015, 1, /vagrant/PROXY/tmp/stock_hist.data.000007.2015.1
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000007.2015.1': No such file or directory
+000007, 2015, 2, /vagrant/PROXY/tmp/stock_hist.data.000007.2015.2
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000007.2015.2': No such file or directory
+000007, 2015, 3, /vagrant/PROXY/tmp/stock_hist.data.000007.2015.3
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000007.2015.3': No such file or directory
+000007, 2015, 4, /vagrant/PROXY/tmp/stock_hist.data.000007.2015.4
+iconv: cannot open input file `/vagrant/PROXY/tmp/stock_hist.data.000007.2015.4': No such file or directory
+600463, 2007, 1, /vagrant/PROXY/tmp/stock_hist.data.600463.2007.1
+600463, 2007, 2, /vagrant/PROXY/tmp/stock_hist.data.600463.2007.2
+600463, 2007, 3, /vagrant/PROXY/tmp/stock_hist.data.600463.2007.3
+600463, 2007, 4, /vagrant/PROXY/tmp/stock_hist.data.600463.2007.4
+600463, 2008, 1, /vagrant/PROXY/tmp/stock_hist.data.600463.2008.1
+600463, 2008, 2, /vagrant/PROXY/tmp/stock_hist.data.600463.2008.2
+600463, 2008, 3, /vagrant/PROXY/tmp/stock_hist.data.600463.2008.3
+600463, 2008, 4, /vagrant/PROXY/tmp/stock_hist.data.600463.2008.4
+600463, 2009, 1, /vagrant/PROXY/tmp/stock_hist.data.600463.2009.1
+600463, 2009, 2, /vagrant/PROXY/tmp/stock_hist.data.600463.2009.2
+600463, 2009, 3, /vagrant/PROXY/tmp/stock_hist.data.600463.2009.3
+600463, 2009, 4, /vagrant/PROXY/tmp/stock_hist.data.600463.2009.4
+600463, 2010, 1, /vagrant/PROXY/tmp/stock_hist.data.600463.2010.1
+600463, 2010, 2, /vagrant/PROXY/tmp/stock_hist.data.600463.2010.2
+600463, 2010, 3, /vagrant/PROXY/tmp/stock_hist.data.600463.2010.3
+600463, 2010, 4, /vagrant/PROXY/tmp/stock_hist.data.600463.2010.4
+600463, 2011, 1, /vagrant/PROXY/tmp/stock_hist.data.600463.2011.1
+600463, 2011, 2, /vagrant/PROXY/tmp/stock_hist.data.600463.2011.2
+600463, 2011, 3, /vagrant/PROXY/tmp/stock_hist.data.600463.2011.3
+600463, 2011, 4, /vagrant/PROXY/tmp/stock_hist.data.600463.2011.4
+600463, 2012, 1, /vagrant/PROXY/tmp/stock_hist.data.600463.2012.1
+600463, 2012, 2, /vagrant/PROXY/tmp/stock_hist.data.600463.2012.2
+600463, 2012, 3, /vagrant/PROXY/tmp/stock_hist.data.600463.2012.3
+600463, 2012, 4, /vagrant/PROXY/tmp/stock_hist.data.600463.2012.4
+600463, 2013, 1, /vagrant/PROXY/tmp/stock_hist.data.600463.2013.1
+600463, 2013, 2, /vagrant/PROXY/tmp/stock_hist.data.600463.2013.2
+600463, 2013, 3, /vagrant/PROXY/tmp/stock_hist.data.600463.2013.3
+600463, 2013, 4, /vagrant/PROXY/tmp/stock_hist.data.600463.2013.4
+600463, 2014, 1, /vagrant/PROXY/tmp/stock_hist.data.600463.2014.1
+600463, 2014, 2, /vagrant/PROXY/tmp/stock_hist.data.600463.2014.2
+600463, 2014, 3, /vagrant/PROXY/tmp/stock_hist.data.600463.2014.3
+600463, 2014, 4, /vagrant/PROXY/tmp/stock_hist.data.600463.2014.4
+600463, 2015, 1, /vagrant/PROXY/tmp/stock_hist.data.600463.2015.1
+600463, 2015, 2, /vagrant/PROXY/tmp/stock_hist.data.600463.2015.2
+600463, 2015, 3, /vagrant/PROXY/tmp/stock_hist.data.600463.2015.3
+600463, 2015, 4, /vagrant/PROXY/tmp/stock_hist.data.600463.2015.4
+600064, 2007, 1, /vagrant/PROXY/tmp/stock_hist.data.600064.2007.1
+600064, 2007, 2, /vagrant/PROXY/tmp/stock_hist.data.600064.2007.2
+600064, 2007, 3, /vagrant/PROXY/tmp/stock_hist.data.600064.2007.3
+600064, 2007, 4, /vagrant/PROXY/tmp/stock_hist.data.600064.2007.4
+600064, 2008, 1, /vagrant/PROXY/tmp/stock_hist.data.600064.2008.1
+600064, 2008, 2, /vagrant/PROXY/tmp/stock_hist.data.600064.2008.2
+600064, 2008, 3, /vagrant/PROXY/tmp/stock_hist.data.600064.2008.3
+600064, 2008, 4, /vagrant/PROXY/tmp/stock_hist.data.600064.2008.4
+600064, 2009, 1, /vagrant/PROXY/tmp/stock_hist.data.600064.2009.1
+600064, 2009, 2, /vagrant/PROXY/tmp/stock_hist.data.600064.2009.2
+600064, 2009, 3, /vagrant/PROXY/tmp/stock_hist.data.600064.2009.3
+600064, 2009, 4, /vagrant/PROXY/tmp/stock_hist.data.600064.2009.4
+600064, 2010, 1, /vagrant/PROXY/tmp/stock_hist.data.600064.2010.1
+600064, 2010, 2, /vagrant/PROXY/tmp/stock_hist.data.600064.2010.2
+600064, 2010, 3, /vagrant/PROXY/tmp/stock_hist.data.600064.2010.3
+600064, 2010, 4, /vagrant/PROXY/tmp/stock_hist.data.600064.2010.4
+600064, 2011, 1, /vagrant/PROXY/tmp/stock_hist.data.600064.2011.1
+600064, 2011, 2, /vagrant/PROXY/tmp/stock_hist.data.600064.2011.2
+600064, 2011, 3, /vagrant/PROXY/tmp/stock_hist.data.600064.2011.3
+600064, 2011, 4, /vagrant/PROXY/tmp/stock_hist.data.600064.2011.4
+600064, 2012, 1, /vagrant/PROXY/tmp/stock_hist.data.600064.2012.1
+600064, 2012, 2, /vagrant/PROXY/tmp/stock_hist.data.600064.2012.2
+600064, 2012, 3, /vagrant/PROXY/tmp/stock_hist.data.600064.2012.3
+600064, 2012, 4, /vagrant/PROXY/tmp/stock_hist.data.600064.2012.4
+600064, 2013, 1, /vagrant/PROXY/tmp/stock_hist.data.600064.2013.1
+600064, 2013, 2, /vagrant/PROXY/tmp/stock_hist.data.600064.2013.2
+600064, 2013, 3, /vagrant/PROXY/tmp/stock_hist.data.600064.2013.3
+600064, 2013, 4, /vagrant/PROXY/tmp/stock_hist.data.600064.2013.4
+600064, 2014, 1, /vagrant/PROXY/tmp/stock_hist.data.600064.2014.1
+600064, 2014, 2, /vagrant/PROXY/tmp/stock_hist.data.600064.2014.2
+600064, 2014, 3, /vagrant/PROXY/tmp/stock_hist.data.600064.2014.3
+600064, 2014, 4, /vagrant/PROXY/tmp/stock_hist.data.600064.2014.4
+600064, 2015, 1, /vagrant/PROXY/tmp/stock_hist.data.600064.2015.1
+600064, 2015, 2, /vagrant/PROXY/tmp/stock_hist.data.600064.2015.2
+600064, 2015, 3, /vagrant/PROXY/tmp/stock_hist.data.600064.2015.3
+600064, 2015, 4, /vagrant/PROXY/tmp/stock_hist.data.600064.2015.4
+600639, 2007, 1, /vagrant/PROXY/tmp/stock_hist.data.600639.2007.1
+600639, 2007, 2, /vagrant/PROXY/tmp/stock_hist.data.600639.2007.2
+600639, 2007, 3, /vagrant/PROXY/tmp/stock_hist.data.600639.2007.3
+600639, 2007, 4, /vagrant/PROXY/tmp/stock_hist.data.600639.2007.4
+600639, 2008, 1, /vagrant/PROXY/tmp/stock_hist.data.600639.2008.1
+600639, 2008, 2, /vagrant/PROXY/tmp/stock_hist.data.600639.2008.2
+600639, 2008, 3, /vagrant/PROXY/tmp/stock_hist.data.600639.2008.3
+600639, 2008, 4, /vagrant/PROXY/tmp/stock_hist.data.600639.2008.4
+600639, 2009, 1, /vagrant/PROXY/tmp/stock_hist.data.600639.2009.1
+600639, 2009, 2, /vagrant/PROXY/tmp/stock_hist.data.600639.2009.2
+600639, 2009, 3, /vagrant/PROXY/tmp/stock_hist.data.600639.2009.3
+600639, 2009, 4, /vagrant/PROXY/tmp/stock_hist.data.600639.2009.4
+600639, 2010, 1, /vagrant/PROXY/tmp/stock_hist.data.600639.2010.1
+600639, 2010, 2, /vagrant/PROXY/tmp/stock_hist.data.600639.2010.2
+600639, 2010, 3, /vagrant/PROXY/tmp/stock_hist.data.600639.2010.3
+600639, 2010, 4, /vagrant/PROXY/tmp/stock_hist.data.600639.2010.4
+600639, 2011, 1, /vagrant/PROXY/tmp/stock_hist.data.600639.2011.1
+600639, 2011, 2, /vagrant/PROXY/tmp/stock_hist.data.600639.2011.2
+600639, 2011, 3, /vagrant/PROXY/tmp/stock_hist.data.600639.2011.3
+600639, 2011, 4, /vagrant/PROXY/tmp/stock_hist.data.600639.2011.4
+600639, 2012, 1, /vagrant/PROXY/tmp/stock_hist.data.600639.2012.1
+600639, 2012, 2, /vagrant/PROXY/tmp/stock_hist.data.600639.2012.2
+600639, 2012, 3, /vagrant/PROXY/tmp/stock_hist.data.600639.2012.3
+600639, 2012, 4, /vagrant/PROXY/tmp/stock_hist.data.600639.2012.4
+600639, 2013, 1, /vagrant/PROXY/tmp/stock_hist.data.600639.2013.1

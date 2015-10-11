@@ -1,0 +1,21 @@
+FILE: script_ch_finance_analysis.sh
+	- Main Extrance script, this script combine all of those sub-script;
+		- 1) get all the finance analysis factor from website, i.e. P/E, Total Asset, etc;
+		- 2) 
+
+FILE: script_generate_stock_input_hist.sh
+	- generate the input file for script FILE:script_get_stock_hist.sh
+	- the result file is in following format:
+		- $stock_index \t year \t season
+
+FILE: script_get_catalog.sh
+	- get all the catalog of the stock industry
+	- get all the stock index under each industry for futher analysis
+
+FILE: script_get_stock_hist.sh
+	- this is main script in gettting each individual stock index history price and data;
+
+FILE: script_get_catalog_list.py
+FILE: script_parse_hist_page.py
+FILE: script_parse_json.py
+FILE: script_parse_page.py
